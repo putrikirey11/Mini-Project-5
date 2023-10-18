@@ -14,14 +14,17 @@ The graph illustrates the growth in the number of employees from 2006 to 2020. I
 ### Resign Reason Analysis for Employee Attrition Management Strategy
 ![2](https://github.com/putrikirey11/Mini-Project-5/assets/131474475/6d8f3707-82a4-49e2-8382-db1aeb4be706)
 The Data Analyst division has the highest percentage of resignations, reaching 50%.
+
 ![3](https://github.com/putrikirey11/Mini-Project-5/assets/131474475/b8b52e55-15a7-4c35-9571-b1062b508955)
 From the adjacent graph, it is apparent that all employees who resigned from the Data Analyst division were from the Fresh Graduate Program, which also had a significantly higher number of resignations compared to the number of employees who stayed.
 
 **Recommendation:** The company can provide better self-development opportunities, such as providing training in each division, especially for new employees. Offer more competitive salary and benefits, particularly for fresh graduate program participants, and create a more supportive work environment.
+
 ![4](https://github.com/putrikirey11/Mini-Project-5/assets/131474475/fb2d8881-d7e6-4287-80d4-ebce8d65e53e)
 The graph beside it shows that out of 8 employees from the Data Analyst division who resigned, 4 had excellent performance, and 1 had good performance. This is detrimental to the company, as these resigning employees were high-performing.
 
 **Recommendation:** The company can offer better salaries, benefits, and work-life balance to employees with good performance. Additionally, the company is expected to offer good career progression and self-development opportunities to these high-performing employees, ensuring they feel valued and have a promising career path within the company.
+
 ![5](https://github.com/putrikirey11/Mini-Project-5/assets/131474475/2bbdcb1e-ae9c-4524-99c7-4aad3581a21d)
 The graph alongside indicates that out of the various reasons for resignations, 6 employees from the Data Analyst division resigned due to toxic culture, and 2 others due to internal conflicts. Both reasons reflect some unfavorable internal factors within the Data Analyst position in this company.
 
