@@ -1,4 +1,4 @@
-# Mini-Project-5 : Improving Employee Retention by Predicting Employee Attrition Using Machine Learning
+# Mini Project 5 : Improving Employee Retention by Predicting Employee Attrition Using Machine Learning
 ## Background
 Human resources (HR) are a critical asset that needs to be effectively managed by companies to achieve business goals efficiently. In this scenario, we are faced with a human resource issue within the company. Our focus is to understand how to retain employees, as their departure can lead to increased recruitment and training costs for new hires. By identifying the key factors causing employee dissatisfaction, the company can promptly address these issues by creating relevant employee-centric programs.
 ## Objective
